@@ -29,5 +29,5 @@ A modular desktop application built with a user-friendly tkinter GUI. Designed f
 📫 Let's Connect
 Email: mathew.mcclave@gmail.com
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: www.linkedin.com/in/mathew-mcclave-a6721845
 
