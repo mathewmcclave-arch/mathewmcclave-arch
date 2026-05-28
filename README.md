@@ -27,8 +27,7 @@ An ERP-agnostic matching engine that automates capital recovery under TFTEA guid
 A modular desktop application built with a user-friendly tkinter GUI. Designed for operational entry writers, it standardizes messy upstream shipping CSVs—formatting dates, resolving currency discrepancies, and validating 10-digit HTS structural integrity prior to ABI transmission.
 
 📫 Let's Connect
-Email: [Your Email]
+Email: mathew.mcclave@gmail.com
 
 LinkedIn: [Your LinkedIn URL]
 
-This structure places your pending license right at the top, validating your regulatory expertise immediately. Then, it uses your specific IT background to justify your advanced coding skills, making you look like a highly strategic hire.
